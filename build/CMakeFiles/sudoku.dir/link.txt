@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/sudoku.dir/main.cpp.o CMakeFiles/sudoku.dir/src/field.cpp.o -o sudoku  /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so libFontCache.a 

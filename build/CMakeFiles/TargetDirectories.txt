@@ -1,0 +1,4 @@
+/home/samuel/Desktop/Own Programming/Sudoku/build/CMakeFiles/FontCache.dir
+/home/samuel/Desktop/Own Programming/Sudoku/build/CMakeFiles/sudoku.dir
+/home/samuel/Desktop/Own Programming/Sudoku/build/CMakeFiles/edit_cache.dir
+/home/samuel/Desktop/Own Programming/Sudoku/build/CMakeFiles/rebuild_cache.dir

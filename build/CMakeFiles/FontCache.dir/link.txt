@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFontCache.a CMakeFiles/FontCache.dir/src/SDL_FontCache/SDL_FontCache.c.o
+/usr/bin/ranlib libFontCache.a
